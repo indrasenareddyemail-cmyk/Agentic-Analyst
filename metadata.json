@@ -1,0 +1,5 @@
+{
+  "name": "Kasparro Agentic Analyst",
+  "description": "A multi-agent system that autonomously diagnoses Facebook Ads performance, identifies ROAS fluctuations, and recommends creative directions.",
+  "requestFramePermissions": []
+}
